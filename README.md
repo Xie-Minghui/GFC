@@ -5,14 +5,14 @@ Question Answering"
 Overall architecture of our proposed GFC
 model.
 <div align="center">
-    <img src="/pics/framework.png" width="100%">
+    <img src="/pics/framework.png" width="20%">
 </div><br/>
 
 The schematic diagram of the GRU-inspired
 Flow Control Framework.
 
 <div align="center">
-    <img src="/pics/model.png" width="100%">
+    <img src="/pics/model.png" width="50%">
 </div><br/>
 
 If you find this code useful in your research, please cite
