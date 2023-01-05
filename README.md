@@ -1,6 +1,9 @@
 # GFC
-Pytorch implementation for paper "A Sequential Flow Control Framework for Multi-hop Knowledge Base
-Question Answering"
+Pytorch implementation for EMNLP 2022 paper
+
+**[A Sequential Flow Control Framework for Multi-hop Knowledge Base Question Answering](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.578.pdf)**
+
+Minghui Xie, Chuzhan Hao, and Peng Zhang
 
 Overall architecture of our proposed GFC
 model.
