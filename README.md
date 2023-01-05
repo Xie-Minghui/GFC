@@ -2,6 +2,28 @@
 Pytorch implementation for paper "A Sequential Flow Control Framework for Multi-hop Knowledge Base
 Question Answering"
 
+Overall architecture of our proposed GFC
+model.
+<div align="center">
+    <img src="/pics/framework.png" width="100%">
+</div><br/>
+
+The schematic diagram of the GRU-inspired
+Flow Control Framework.
+
+<div align="center">
+    <img src="/pics/model.png" width="100%">
+</div><br/>
+
+If you find this code useful in your research, please cite
+```bib
+@InProceedings{xie2022gfc,
+  author =  {Minghui Xie and Chuzhan Hao and Peng Zhang},
+  title =   {A Sequential Flow Control Framework for Multi-hop Knowledge Base Question Answering},
+  year =    {2022},  
+  booktitle = {Empirical Methods in Natural Language Processing (EMNLP)},  
+} 
+```
 
 ## dependencies
 - pytorch>=1.2.0
